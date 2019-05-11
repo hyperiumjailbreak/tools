@@ -1,0 +1,464 @@
+{
+  "frames": [
+    {
+      "time": 0
+    },
+    {
+      "time": 11,
+      "rightUpperArm": {
+        "rotateAngleX": -1.6580628156661987,
+        "rotateAngleY": 0.13962633907794952
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.5707963705062866,
+        "rotateAngleY": -0.0872664600610733
+      }
+    },
+    {
+      "time": 13,
+      "rightUpperArm": {
+        "rotateAngleX": -1.6580628156661987,
+        "rotateAngleY": -0.6283185482025146
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.5707963705062866,
+        "rotateAngleY": 0.6806784272193909
+      }
+    },
+    {
+      "time": 18,
+      "rightUpperArm": {
+        "rotateAngleX": -1.6580628156661987
+      },
+      "head": {
+        "rotateAngleZ": -0.296705961227417
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.5410520434379578
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.5707963705062866,
+        "rotateAngleZ": 0.593411922454834
+      }
+    },
+    {
+      "time": 23,
+      "rightUpperArm": {
+        "rotateAngleX": -1.6580628156661987
+      },
+      "head": {
+        "rotateAngleZ": -0.5759586691856384
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.7504915595054626
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.5707963705062866,
+        "rotateAngleZ": 0.593411922454834
+      }
+    },
+    {
+      "time": 28,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.3141592741012573
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -0.20943951606750488
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.1745329201221466
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -0.1745329201221466
+      }
+    },
+    {
+      "time": 31,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.3141592741012573
+      },
+      "rightUpperArm": {
+        "rotateAngleX": 0.2617993950843811
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.45378559827804565
+      },
+      "leftUpperArm": {
+        "rotateAngleX": 0.2617993950843811
+      }
+    },
+    {
+      "time": 36,
+      "leftUpperLeg": {
+        "offsetY": -0.1,
+        "rotateAngleX": -0.24434609711170197
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -1.2915436029434204,
+        "rotateAngleY": -0.296705961227417
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.2042771577835083,
+        "rotateAngleY": 0.471238911151886
+      }
+    },
+    {
+      "time": 44,
+      "leftUpperLeg": {
+        "rotateAngleX": -0.296705961227417
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -0.24434609711170197,
+        "rotateAngleY": -0.296705961227417
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": 0.3490658402442932
+      },
+      "leftUpperArm": {
+        "rotateAngleX": 0.13962633907794952,
+        "rotateAngleY": 0.3141592741012573
+      }
+    },
+    {
+      "time": 49,
+      "leftUpperLeg": {
+        "rotateAngleX": -0.24434609711170197
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -0.36651915311813354
+      },
+      "head": {
+        "rotateAngleZ": -0.12217304855585098
+      },
+      "rightUpperLeg": {
+        "offsetY": -0.1,
+        "rotateAngleX": 0.0
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -0.20943951606750488,
+        "rotateAngleY": 0.19198621809482574
+      }
+    },
+    {
+      "time": 53,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.0
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -0.8726646304130554
+      },
+      "head": {
+        "rotateAngleZ": -0.296705961227417
+      },
+      "rightUpperLeg": {
+        "offsetY": -0.2,
+        "rotateAngleX": -0.6632251143455505
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -0.5061454772949219,
+        "rotateAngleY": 0.19198621809482574
+      }
+    },
+    {
+      "time": 58,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.22689279913902283
+      },
+      "head": {
+        "rotateAngleZ": -0.20943951606750488
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.296705961227417
+      },
+      "leftUpperArm": {
+        "rotateAngleY": 0.19198621809482574
+      }
+    },
+    {
+      "time": 62,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.6806784272193909
+      },
+      "rightUpperArm": {
+        "rotateAngleX": 0.471238911151886
+      },
+      "head": {
+        "rotateAngleZ": 0.0
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.5410520434379578
+      },
+      "leftUpperArm": {
+        "rotateAngleX": 0.10471975803375244,
+        "rotateAngleY": 0.05235987901687622,
+        "rotateAngleZ": -0.24434609711170197
+      }
+    },
+    {
+      "time": 67,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.3141592741012573,
+        "rotateAngleY": 0.767944872379303
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -0.9075711965560913,
+        "rotateAngleY": 1.0471975803375244
+      },
+      "head": {
+        "rotateAngleZ": 0.0
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.296705961227417,
+        "rotateAngleY": -0.6632251143455505
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -0.20943951606750488,
+        "rotateAngleZ": -1.9024088382720947
+      }
+    },
+    {
+      "time": 74,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.2617993950843811
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -1.535889744758606,
+        "rotateAngleY": -0.5410520434379578
+      },
+      "head": {
+        "rotateAngleZ": -0.24434609711170197
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.7504915595054626
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.5009831190109253,
+        "rotateAngleY": 0.593411922454834
+      }
+    },
+    {
+      "time": 84,
+      "rightUpperArm": {
+        "rotateAngleX": -2.1991147994995117,
+        "rotateAngleY": 0.4363323152065277
+      },
+      "head": {
+        "rotateAngleZ": 0.0
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.36651915311813354
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -2.373647689819336,
+        "rotateAngleY": -0.5410520434379578
+      }
+    },
+    {
+      "time": 95,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.22689279913902283
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -0.20943951606750488,
+        "rotateAngleY": 1.0821040868759155
+      },
+      "head": {
+        "rotateAngleZ": -0.24434609711170197
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.20943951606750488
+      },
+      "leftUpperArm": {
+        "rotateAngleY": -0.45378559827804565,
+        "rotateAngleZ": -0.20943951606750488
+      }
+    },
+    {
+      "time": 103,
+      "leftUpperLeg": {
+        "rotateAngleX": -0.36651915311813354
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -0.9075711965560913,
+        "rotateAngleY": -0.48869219422340393
+      },
+      "head": {
+        "rotateAngleZ": -0.24434609711170197
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": 0.3141592741012573
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.326450228691101,
+        "rotateAngleZ": 0.7155849933624268
+      }
+    },
+    {
+      "time": 113,
+      "leftUpperLeg": {
+        "rotateAngleX": -0.36651915311813354,
+        "rotateAngleZ": -0.48869219422340393,
+        "offsetY": 0.2
+      },
+      "head": {
+        "rotateAngleZ": 0.0
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.6283185482025146
+      },
+      "leftUpperArm": {
+        "offsetY": 0.1
+      },
+      "rightUpperArm": {
+        "offsetY": -0.1
+      }
+    },
+    {
+      "time": 122,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.10471975803375244,
+        "rotateAngleZ": -0.1745329201221466
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -0.9075711965560913,
+        "rotateAngleY": -0.41887903213500977
+      },
+      "head": {
+        "rotateAngleZ": -0.41887903213500977
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.24434609711170197
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.0821040868759155,
+        "rotateAngleZ": 0.8901179432868958
+      }
+    },
+    {
+      "time": 129,
+      "leftUpperLeg": {
+        "rotateAngleX": -0.1745329201221466,
+        "rotateAngleZ": 0.0
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -0.36651915311813354,
+        "rotateAngleY": -0.41887903213500977,
+        "offsetY": 0.1
+      },
+      "head": {
+        "rotateAngleX": -0.5759586691856384,
+        "rotateAngleZ": -0.7504915595054626
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.239183783531189,
+        "rotateAngleY": 0.3490658402442932,
+        "rotateAngleZ": 0.10471975803375244,
+        "offsetY": -0.1
+      }
+    },
+    {
+      "time": 140,
+      "leftUpperLeg": {
+        "rotateAngleX": -0.1745329201221466,
+        "rotateAngleZ": -0.36651915311813354
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -1.0821040868759155,
+        "rotateAngleY": -0.41887903213500977
+      },
+      "head": {
+        "rotateAngleZ": 0.0
+      },
+      "rightUpperLeg": {
+        "rotateAngleZ": 0.3490658402442932
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -0.36651915311813354,
+        "rotateAngleY": 0.01745329238474369,
+        "rotateAngleZ": 0.10471975803375244
+      }
+    },
+    {
+      "time": 148,
+      "leftUpperLeg": {
+        "rotateAngleX": -0.33161255717277527
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -1.8675023317337036
+      },
+      "head": {
+        "rotateAngleZ": -0.296705961227417
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -0.24434609711170197,
+        "rotateAngleY": -0.6283185482025146,
+        "rotateAngleZ": -0.1745329201221466
+      }
+    },
+    {
+      "time": 170,
+      "leftUpperLeg": {
+        "rotateAngleX": 0.3839724361896515,
+        "rotateAngleY": 0.05235987901687622
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -1.4137166738510132
+      },
+      "head": {
+        "rotateAngleZ": 0.0
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": -0.20943951606750488
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -0.24434609711170197,
+        "rotateAngleY": -0.6283185482025146,
+        "rotateAngleZ": -0.24434609711170197
+      }
+    },
+    {
+      "time": 185,
+      "leftUpperLeg": {
+        "rotateAngleX": -0.1745329201221466,
+        "rotateAngleY": 0.05235987901687622
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -1.326450228691101,
+        "rotateAngleY": -1.0646508932113647,
+        "offsetX": -0.1
+      },
+      "head": {
+        "rotateAngleZ": 0.0
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": 0.19198621809482574
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.0471975803375244,
+        "rotateAngleY": 0.9599310755729675
+      }
+    },
+    {
+      "time": 300,
+      "leftUpperLeg": {
+        "rotateAngleX": -0.1745329201221466,
+        "rotateAngleY": 0.05235987901687622
+      },
+      "rightUpperArm": {
+        "rotateAngleX": -1.326450228691101,
+        "rotateAngleY": -1.0646508932113647,
+        "offsetX": -0.1
+      },
+      "head": {
+        "rotateAngleZ": 0.0
+      },
+      "rightUpperLeg": {
+        "rotateAngleX": 0.19198621809482574
+      },
+      "leftUpperArm": {
+        "rotateAngleX": -1.0471975803375244,
+        "rotateAngleY": 0.9599310755729675
+      }
+    }
+  ]
+}
