@@ -21,6 +21,17 @@
       "url": "https://github.com/lego3708/blctimers/releases/download/hyperium-v1.3.1/BLCTimers.Hyperium-1.3.jar",
       "depends": [],
       "enabled": true
+    },
+    {
+      "name": "Discord Rich Presence",
+      "description": "Display HyperiumJB as your playing status on Discord.",
+      "version": "1.0.0",
+      "author": "Reece Dunham",
+      "verified": true,
+      "sha256": "b5b7de425bfc011dd2c1a4e5992d8741dee10E97bdc9f3643dcfe2e1caa1063e",
+      "url": "https://github.com/hyperiumjailbreak/DiscordRPAddon/releases/download/1.0/DiscordRPAddon-1.0-SNAPSHOT.jar",
+      "depends": [],
+      "enabled": true
     }
   ]
 }
